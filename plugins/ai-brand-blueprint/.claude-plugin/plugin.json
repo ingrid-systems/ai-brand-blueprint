@@ -1,0 +1,17 @@
+{
+  "name": "ai-brand-blueprint",
+  "version": "0.2.0",
+  "description": "De 5 AI Brand Blueprint-AI's die samen jouw Brand Library bouwen: Personal Brand, Business Blueprint, Offer Snapshot, Dream Client Profile en Brand Voice Guide. In 1x installeren en meteen aanroepen in Claude.",
+  "author": {
+    "name": "Ingrid Staal"
+  },
+  "homepage": "https://ingridstaal.nl/blueprint",
+  "keywords": [
+    "brand blueprint",
+    "brand library",
+    "personal brand",
+    "business blueprint",
+    "dream client",
+    "tone of voice"
+  ]
+}
