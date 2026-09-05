@@ -12,7 +12,7 @@ Op dit moment staat hier één plugin in:
 
 1. Open **Customize** in de linker sidebar en ga naar de tab **Plugins**.
 2. Klik bij **Personal plugins** op de "+" en kies **Add marketplace**.
-3. Kies **Add from a repository** en plak de URL van deze repo.
+3. Kies **Add from a repository** en plak: `https://github.com/ingrid-systems/claude-plugins`
 4. Klik op **Install** bij `ai-brand-blueprint`.
 
 In Cowork open je eerst de Cowork-tab en daarna Customize.
@@ -20,7 +20,7 @@ In Cowork open je eerst de Cowork-tab en daarna Customize.
 ## Installeren (Claude Code)
 
 ```
-/plugin marketplace add <github-gebruiker>/<repo-naam>
+/plugin marketplace add ingrid-systems/claude-plugins
 /plugin install ai-brand-blueprint@ingrid-staal
 ```
 
