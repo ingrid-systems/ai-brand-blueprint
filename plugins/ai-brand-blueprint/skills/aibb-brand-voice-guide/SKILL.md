@@ -2,7 +2,7 @@
 name: aibb-brand-voice-guide
 description: >
   Bouw een AI Brand Voice Guide door bestaande blueprints (Personal Brand,
-  Business Blueprint, Offer Blueprint, Dream Client Profile) en
+  Business Blueprint, Offer Snapshot, Dream Client Profile) en
   contentvoorbeelden te analyseren, of door een bestaande Brand Voice Guide te
   updaten. Werkt sectie voor sectie aan 6 vaste secties (core identity & energy,
   voice characteristics, language patterns, vocabulary, writing patterns,
@@ -70,7 +70,7 @@ Deze guide werkt het beste wanneer je hem kunt baseren op de andere AIBB-bluepri
 
 > "Heb je al documenten die ik kan gebruiken? Bijvoorbeeld:
 > - een bestaande AI Brand Voice Guide die je wilt bijwerken
-> - je Personal Brand Document, Business Blueprint, Signature Offer Blueprint en Ideale Klant Profiel
+> - je Personal Brand Document, Business Blueprint, Offer Snapshot en Ideale Klant Profiel
 >
 > Contentvoorbeelden van je eigen teksten heb ik nu nog niet nodig. Die vraag ik later, als we je schrijfstijl gaan analyseren. Voor nu genoeg als je de documenten hierboven uploadt of plakt.
 >
@@ -100,7 +100,7 @@ Wacht op bevestiging dat de input compleet is voor je verder gaat.
 
 De gebruiker heeft niets om te uploaden.
 
-> "Een Brand Voice Guide zonder blueprints wordt vaak vaag of generiek. Ik raad je aan om eerst je Personal Brand, Business Blueprint, Signature Offer en Ideale Klant Profiel te maken. Wil je toch nu starten en stel ik je per sectie gerichte vragen? Of ga je eerst die voorbereiding doen?"
+> "Een Brand Voice Guide zonder blueprints wordt vaak vaag of generiek. Ik raad je aan om eerst je Personal Brand, Business Blueprint, Offer Snapshot en Ideale Klant Profiel te maken. Wil je toch nu starten en stel ik je per sectie gerichte vragen? Of ga je eerst die voorbereiding doen?"
 
 Bij doorzetten: stel per sectie alle elementen via gerichte vragen vast, één voor één.
 
@@ -113,8 +113,8 @@ Skip deze fase bij Route A (update) tenzij de gebruiker nieuwe blueprints heeft 
 Op basis van de blueprints formuleer je drie kernpijlers:
 
 - **Kernmissie en waarden** (uit Personal Brand en Business Blueprint)
-- **Verandering die ze voor klanten faciliteert** (uit Offer Blueprint en Dream Client Profile)
-- **Unieke positionering en aanpak** (uit Business Blueprint en Offer Blueprint)
+- **Verandering die ze voor klanten faciliteert** (uit Offer Snapshot en Dream Client Profile)
+- **Unieke positionering en aanpak** (uit Business Blueprint en Offer Snapshot)
 
 > "Op basis van je documenten zie ik dit terug als je essentie:
 > - **Ziel:** [formulering]
