@@ -37,3 +37,22 @@ Typ `/` in een gesprek en kies een van de vijf skills, bijvoorbeeld `aibb-person
 3. Commit en push.
 
 Iedereen die de marketplace heeft toegevoegd, krijgt de nieuwe versie zonder iets te downloaden of opnieuw te uploaden.
+
+## Structuur van deze repo
+
+```
+.
+|-- .claude-plugin/
+|   `-- marketplace.json          catalogus: welke plugins staan hier
+`-- plugins/
+    `-- ai-brand-blueprint/
+        |-- .claude-plugin/
+        |   `-- plugin.json       manifest: naam, versie, beschrijving
+        |-- README.md
+        `-- skills/
+            |-- aibb-personal-brand/
+            |-- aibb-business-blueprint/
+            |-- aibb-offer-snapshot/
+            |-- aibb-dream-client-profile/
+            `-- aibb-brand-voice-guide/
+```
