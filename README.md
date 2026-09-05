@@ -1,8 +1,8 @@
-# Plugins van Ingrid Staal
+# AI Brand Blueprint
 
-Deze repo is een plugin-marketplace voor Claude. Je voegt de marketplace één keer toe, daarna komen updates automatisch mee.
+Deze repo is de plugin-marketplace voor de AI Brand Blueprint van Ingrid Staal. Je voegt de marketplace één keer toe, daarna komen updates automatisch mee.
 
-Op dit moment staat hier één plugin in:
+In deze marketplace staat één plugin:
 
 | Plugin | Wat het is |
 |---|---|
@@ -12,7 +12,7 @@ Op dit moment staat hier één plugin in:
 
 1. Open **Customize** in de linker sidebar en ga naar de tab **Plugins**.
 2. Klik bij **Personal plugins** op de "+" en kies **Add marketplace**.
-3. Kies **Add from a repository** en plak: `https://github.com/ingrid-systems/claude-plugins`
+3. Kies **Add from a repository** en plak: `https://github.com/ingrid-systems/ai-brand-blueprint`
 4. Klik op **Install** bij `ai-brand-blueprint`.
 
 In Cowork open je eerst de Cowork-tab en daarna Customize.
@@ -20,8 +20,8 @@ In Cowork open je eerst de Cowork-tab en daarna Customize.
 ## Installeren (Claude Code)
 
 ```
-/plugin marketplace add ingrid-systems/claude-plugins
-/plugin install ai-brand-blueprint@ingrid-staal
+/plugin marketplace add ingrid-systems/ai-brand-blueprint
+/plugin install ai-brand-blueprint@ingrid-staal-blueprint
 ```
 
 ## Gebruiken
@@ -37,22 +37,3 @@ Typ `/` in een gesprek en kies een van de vijf skills, bijvoorbeeld `aibb-person
 3. Commit en push.
 
 Iedereen die de marketplace heeft toegevoegd, krijgt de nieuwe versie zonder iets te downloaden of opnieuw te uploaden.
-
-## Structuur van deze repo
-
-```
-.
-├── .claude-plugin/
-│   └── marketplace.json          catalogus: welke plugins staan hier
-└── plugins/
-    └── ai-brand-blueprint/
-        ├── .claude-plugin/
-        │   └── plugin.json       manifest: naam, versie, beschrijving
-        ├── README.md
-        └── skills/
-            ├── aibb-personal-brand/
-            ├── aibb-business-blueprint/
-            ├── aibb-offer-snapshot/
-            ├── aibb-dream-client-profile/
-            └── aibb-brand-voice-guide/
-```
