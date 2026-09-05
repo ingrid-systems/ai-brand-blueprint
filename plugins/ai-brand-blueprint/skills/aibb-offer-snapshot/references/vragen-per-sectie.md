@@ -1,4 +1,4 @@
-# Vragen per sectie - Signature Offer Blueprint
+# Vragen per sectie - Offer Snapshot
 
 Raadpleeg dit bestand zodra je aan een sectie begint. Stel vragen één voor één. Formuleer ze context-gevoelig, niet letterlijk; pas aan op wat je al weet van de gebruiker.
 
