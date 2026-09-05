@@ -2,7 +2,7 @@
 name: aibb-dream-client-profile
 description: >
   Bouw een Ideale Klant Profiel via interview, op basis van bestaande Personal
-  Brand / Business Blueprint / Offer Blueprint en losse materialen, of door een
+  Brand / Business Blueprint / Offer Snapshot en losse materialen, of door een
   bestaand profiel te updaten. Werkt sectie voor sectie aan 7 vaste secties
   (hyper-specifiek profiel, dagelijkse realiteit, belemmerende patronen,
   verlangens & transformaties, gefaalde oplossingen, communicatie & taalgebruik,
@@ -75,7 +75,7 @@ Dit profiel werkt het beste wanneer je het kunt baseren op de andere AIBB-bluepr
 
 > "Heb je al materiaal dat ik kan gebruiken? Bijvoorbeeld:
 > - een bestaand Ideale Klant Profiel dat je wilt bijwerken
-> - je Personal Brand Document, Business Blueprint of Signature Offer Blueprint
+> - je Personal Brand Document, Business Blueprint of Offer Snapshot
 > - aanvullende materialen zoals testimonials, ingevulde vragenlijsten, salescall-transcripties, je aanbodsheet
 >
 > Je kunt uploaden of plakken. Heb je niets, dan beginnen we met vragen, maar ik raad je dan aan om eerst de andere blueprints te maken, dat geeft een veel rijker profiel."
@@ -106,7 +106,7 @@ Wacht op bevestiging dat de input compleet is voor je verder gaat.
 
 De gebruiker heeft niets om te uploaden. Werk door alle vragen in de zeven secties, één voor één.
 
-> "Geen probleem, we beginnen blanco. Ik stel je per sectie een paar gerichte vragen. Tip: als je dit profiel scherper wilt krijgen, overweeg dan om eerst je Personal Brand, Business Blueprint en Signature Offer Blueprint te maken; die geven veel context voor je ideale klant."
+> "Geen probleem, we beginnen blanco. Ik stel je per sectie een paar gerichte vragen. Tip: als je dit profiel scherper wilt krijgen, overweeg dan om eerst je Personal Brand, Business Blueprint en Offer Snapshot te maken; die geven veel context voor je ideale klant."
 
 ---
 
