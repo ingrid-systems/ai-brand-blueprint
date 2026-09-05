@@ -1,10 +1,10 @@
 {
-  "name": "ingrid-staal",
+  "name": "ingrid-staal-blueprint",
   "owner": {
     "name": "Ingrid Staal"
   },
   "metadata": {
-    "description": "Plugins van Ingrid Staal / EVA Intelligence voor merk-, aanbod- en contentwerk in Claude.",
+    "description": "De AI Brand Blueprint van Ingrid Staal: bouw je Brand Library in Claude.",
     "version": "1.0.0",
     "pluginRoot": "./plugins"
   },
